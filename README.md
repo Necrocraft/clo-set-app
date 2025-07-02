@@ -39,28 +39,3 @@ npm run test
 ## To run server locally
 
 npm run dev
-
-src/
-│
-├── pages/
-│ └── Home.tsx # Main product listing page
-│
-├── components/
-│ ├── CustomSlider.tsx # Dual range slider
-│ └── ... # Reusable components
-│
-├── hooks/
-│ ├── useDebounce.ts # Debounced search input
-│ ├── useThrottle.ts # (If used) Throttled scroll
-│
-├── redux/
-│ ├── actions.ts
-│ ├── reducers.ts
-│ └── store.ts
-│
-├── models/
-│ ├── Item.ts
-│ └── pricing.ts # PricingOption enum and labels
-│
-└── tests/
-└── Home.test.tsx # Unit tests for Home page
