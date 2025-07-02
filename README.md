@@ -22,9 +22,9 @@ This is a responsive product listing web app built with **React**, **Vite**, **T
 
 ---
 
-## 📦 Installation
+## 📦 Installation (Important to make sure node js version is this or above)
 
-> Requires Node.js `v20.19+`
+> Requires Node.js `v20.19.3`
 
 ```bash
 git clone https://github.com/your-username/closet-product-listing.git
